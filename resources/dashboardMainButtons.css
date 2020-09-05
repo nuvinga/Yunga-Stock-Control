@@ -1,0 +1,7 @@
+.signOutButton {
+  -fx-background-color: #DC143C;
+}
+.signOutButton:hover {
+  -fx-background-color: #d0173d;
+}
+

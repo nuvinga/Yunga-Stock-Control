@@ -1,0 +1,8 @@
+.naviButton{
+    -fx-background-color:  #6495ED;
+    -fx-opacity: 0.6;
+}
+.naviButton:hover{
+    -fx-background-color: #276de5;
+    -fx-opacity: 1;
+}
